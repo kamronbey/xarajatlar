@@ -11,5 +11,5 @@ if (totalMoney >= totalCosts) {
    console.log(`Sizning umumiy pulingiz: ${totalMoney} sum.Alisher ozgina sabr qilish kerak bolar ekan`);
 }
 
-confirm ("Salom qalaysiz?")
+//confirm ("Siz 18 yoshdan oshganmisiz?")
 
